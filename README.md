@@ -12,14 +12,16 @@
 ### UI Design
 ![UI design](Markdown/UI.png)
 
+### In-game Content
+![In-game content](Markdown/realgame.png)
+
 ### Common Drops
 ![Common drops](Markdown/bar.png)
 
 ### Visual Inspiration
 ![Visual inspiration](Markdown/Origin.jpg)
 
-### In-game Content
-![In-game content](Markdown/realgame.png)
+
 
 
 
